@@ -1,0 +1,28 @@
+Breakpoint 1 at 0x1d4: file source/main.c, line 93.
+Note: automatically using hardware breakpoints for read-only addresses.
+Quit
+Quit
+Quit
+Undefined command: "xit".  Try "help".
+Undefined command: "exit".  Try "help".
+Undefined command: "exit".  Try "help".
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Quit
+Undefined command: "exit".  Try "help".
+A debugging session is active.
+
+	Inferior 1 [Remote target] will be detached.
+
+Quit anyway? (y or n) Remote connection closed
